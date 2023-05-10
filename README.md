@@ -61,7 +61,7 @@ In the streaming layer, Apache Spark Streaming is used to process the streaming 
 The data is then stored in a MongoDB database and sent through a Node server to be visualized on a React dashboard.
 
 ## Demo
+[demo.webm](https://github.com/SamerBenMim/BigData-Pipeline-Hadoop-Kafka-Spark/assets/79151541/5fb26869-e5dd-4378-9705-b82489e1e458)
 
-![Demo](./demo.webm)
 
 
