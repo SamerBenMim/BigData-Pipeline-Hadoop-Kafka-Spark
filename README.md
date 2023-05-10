@@ -62,6 +62,6 @@ The data is then stored in a MongoDB database and sent through a Node server to 
 
 ## Demo
 
-![Demo](./demo.mp4)
+![Demo](./demo.webm)
 
 
